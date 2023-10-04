@@ -1,6 +1,6 @@
 # ddd-ubiquitous-language
 
-## Glossaŕio 
+## Glossário 
 
 **Cliente**: Pessoa que irá realizar o pedido do seu lanche através do totem de auto-atendimento.
 
