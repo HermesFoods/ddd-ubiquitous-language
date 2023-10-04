@@ -6,7 +6,7 @@
 
 **CPF**: The client's document identification.
 
-**Product**: Meal information. Example: Hamburgers, French Fries, Soda, etc.
+**Product**: Meal information. Example: Hamburgers, French Fries, Soda, etc...
 
 **Voucher**: The voucher allows to get a discount through a code in the self-service totem.
 
@@ -22,9 +22,9 @@
 
 - **Paid:** The order's invoice payment has been accepted and successfully paid;
 - **Canceled**: The order's invoice payment hasn't been accepted, so the order was canceled;
-- **Received**: The order has been received by the cooks.
-- **In Progress**: The order preparation has been started by the cooks.
-- **Done**: The order is ready to be claimed by the client.
+- **Received**: The order has been received by the cooks;
+- **In Progress**: The order preparation has been started by the cooks;
+- **Done**: The order is ready to be claimed by the client;
 - **Finished**: The client has already claimed its meal.
 
 **Meal**: The real representation of the order's items that are prepared by the cooks and claimed by the clients.
